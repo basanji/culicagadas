@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #EBEFD4;
+}
+.bordefuera {
+	border: 2px solid rgba(112,110,111,1.00);
+	box-shadow: 3px 3px 3px #666;
+	background-color: #66D773
+	
+}
+
+.imagen{
+	margin-top: 1%;
+}
+
+
+.todo {
+	height:0%;
+	background-color: white;
+	border: solid 2px #073600;
+}
+
+.titulo {
+	float: left;
+	list-style: none;
+	margin-left: 40%;
+	margin-top: -150px
+	
+	
+}
+.titulo{
+	display: block;
+	padding: 50px;
+	
+}
+p{
+	    font-size: 40px;
+		text-align: center;
+		margin-top: 1px;
+	    margin-left: -19%;
+		color: green;
+		font: italic
+	}
+	
+
+p1{
+	font-size: 50px;
+		text-align: center;
+		color: green;
+		font: italic
+}
+
+p5{
+	font-size:116%
+		
+}
+
+.cuadritos{
+width: 20%;	
+margin: auto;
+height: 50px;
+margin-top: 149px;
+margin-left: 144px;
+	}
+.cuadritos1{
+		width: 20%;	
+margin: auto;
+height: 50px;
+margin-top: -53px;
+margin-left: 60px;
+	}
+	.cuadritos2{
+		width: 25%;
+		margin: auto;
+		height: 50px;
+	
+		margin-top: -63px;
+		margin-left: 215px;
+	}
+	
+.tamano{
+	margin-top: 100px;
+}
+
+.stephany{
+width: 350px;	
+height: 50px;
+margin-left: 0px;	
+margin-top:10px;
+text-align: center
+}
+
+.Ayr{
+width: 400px;	
+height: 300px;
+margin-left: 357px;	
+margin-top: -50px;
+border: solid 2px #FFE500
+}
+
+.color{ background-color: white;
+      height: 690px
+}
+
+
+.imagenes{
+	margin-top: -6%
+}
+
+.pie{
+		width:1300px;
+		height:40px;
+margin-left: -100%;	
+margin-top: 10px;
+
+	}
+	
+	.pa1{
+		text-align: right;
+		font-size: 20px;
+			}
+
+
+.iz{
+	margin-top: 100%;
+	
+}
+
+.cuadrodentro{
+	margin-top: 60px
+}
+
+.medio{
+	margin-top: 80px
+}
+
+.abajo{
+	margin-top: 90px
+}
+
+.iz{
+	margin-top: 90%
+}
+
+.titulo {
+	float: left;
+	list-style: none;
+	margin-left: 50%;
+	margin-top: -150px;
+	
+	
+}
+
+p{
+	    font-size: 40px;
+		text-align: center;
+		margin-top: 1px;
+		color: darkgreen;
+		font: italic
+	}
+
+.col-md-6{
+	border-left: solid 2px #480200;
+}

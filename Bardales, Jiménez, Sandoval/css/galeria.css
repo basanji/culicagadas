@@ -1,0 +1,222 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{width:1300px; height:90px; background-color:#66D773;}
+main{width:1300px;height:780px;background-color:orange;}
+
+article{width:420px; height:780px; float:left; background-color:lightblue;}
+aside{width:878px; height:780px; float:left; background-color:white;border-left: solid 2px #084200;}
+
+
+body{
+	background-color:#EBEFD4;
+}
+.bordefuera {
+	border: 2px solid rgba(112,110,111,1.00);
+	box-shadow: 3px 3px 3px #666;
+	background-color: #66D773
+	
+}
+
+
+
+.dentro1{
+		width: 100px;	
+height: 250px;
+
+text-align: center
+	}
+
+.marquee{
+	margin-top: 1%;
+}
+	p{
+		
+		font-size: 50px;
+		text-align: center;
+		margin-top: -0px;
+		color: darkgreen;
+		font: italic;
+	}	
+	
+.col-md-6{
+	background-color: white;
+	width: 66%;
+    height: 780px
+}
+
+.video{
+		width:"420px" ;
+	    height:"320px";
+        background: white;
+		margin-top: 20px;
+		margin-left: 20px
+}
+
+
+	.Ayr{width: 350px;	
+height: 220px;
+margin-left: 40px;	
+margin-top: 55px;
+background: lightblue;
+text-align: center;
+}
+		
+	
+	.ejemplo{width: 250px;	
+height: 120px;
+margin-left: 0px;	
+margin-top: 53px;
+background: white;
+text-align: center;
+	border: solid #12FD00;
+}
+	
+	.Carro{
+		width: 350px;	
+height: 220px;
+margin-left: 0px;	
+margin-top: 16px;
+text-align: center;
+}
+	
+	.Computadora{
+		width: 310px;	
+height: 250px;
+margin-left: 0px;	
+margin-top: -40px;
+background: white;
+text-align: center;
+border: solid 3px brown;
+	}
+	
+	.Polo{
+		width: 210px;	
+height: 150px;
+margin-left: 500px;		
+margin-top: -250px;
+background: white;
+text-align: center;
+border: solid 3px yellow;
+	}
+	
+	.Ste{
+		width: 210px;	
+height: 150px;
+margin-left: 500px;
+margin-top: 30px;
+background: white;
+text-align: center;
+	border: solid 3px green;
+	}
+	.izquierda{
+		width: 250px;	
+height: 250px;
+margin-left:-3px;	
+margin-top: 60px;
+background: white;
+text-align: center;
+border: #000000;
+	}
+	
+	.Libros{
+		width: 250px;	
+height: 250px;
+margin-left: 235px;	
+margin-top: -250px;
+text-align: center;
+	}
+	.derecha{	
+margin-left: 477px;	
+margin-top: -250px;
+text-align: center
+	}
+	
+	.Inicio{
+		width: 50px;	
+height: 50px;
+margin-left: 300px;	
+margin-top: 50px;
+text-align: center;
+	}
+	.Marquee{
+		width: 500px;
+		height: 50px;
+		margin-left: 60px;
+		margin-top: 50px;
+		color: yellow;
+	}
+
+
+	p{
+		
+		font-size: 45px;
+		text-align: center;
+		margin-top: -40px;
+		color: darkgreen;
+		font: italic;
+	}	
+	
+	p1{
+		font-size: 20px;
+		text-align: center;
+		margin-top: -40px;
+		color: black;
+		font: italic;
+	}
+
+p7{
+	font-size: 45px;
+		text-align: center;
+		margin-top: -40px;
+		color: darkgreen;
+		font: italic
+}
+
+titulo {
+	float: left;
+	list-style: none;
+	margin-left: 40%;
+	margin-top: -100px
+}
+
+.imagen{
+	margin-top: 1%;
+}
+
+.color{
+	 width:380px; height:780px; float:left; background-color:lightblue;
+}
+
+.col-md-6{
+	background-color: white;
+	width: 66%;
+    height: 780px;
+	border-left: solid 2px #084200
+}
+
+.dentro3{
+	width: 100%;
+	height: 100%;
+	margin-top: 3%;
+	padding: 1%;
+	
+}
+
+.titulo5{
+	float: right;
+    margin-top: -9%;
+	padding-right: 20%
+		
+}
+
+.Inicio2{
+	margin-left: 110px;
+	margin-top: -45px
+}
+
+.Inicio3{
+	margin-left: 500px;
+	margin-top: -40px
+}
+

@@ -1,0 +1,284 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0;padding:0;}
+
+.bordefuera {
+	border: 2px solid rgba(112,110,111,1.00);
+	box-shadow: 3px 3px 3px #666;
+	background-color: #66D773
+}
+body{
+	width: 1300px;
+height:870px;	
+margin: auto;
+	background-color:#EBEFD4
+}
+
+header{width:1300px; height:90px; background-color:#66D773;}
+main{width:1300px;height:780px;background-color:orange;}
+
+article{width:420px; height:780px; float:left; background-color:lightblue;}
+aside{width:878px; height:780px; float:left; background-color:white;border-left: solid 2px #084200;}
+
+	p{
+		
+		font-size: 50px;
+		text-align: center;
+		margin-top: -0px;
+		color: darkgreen;
+		font: italic;
+	}
+	
+	p1{
+		font-size: 19px;
+		text-align: center;
+		margin-top: -40px;
+		color: black;
+		font: italic;
+	}
+ 
+	.ejemplo{width: 250px;	
+height: 120px;
+margin-left: 0px;	
+margin-top: 24px;
+background: white;
+text-align: center;
+	border: solid black;
+}
+	
+	.Carro{
+		width: 350px;	
+height: 220px;
+margin-left: 0px;	
+margin-top: 53px;
+text-align: center;
+	border: solid 3px yellow;
+}
+	
+	.paginas{
+		width: 350px;	
+height: 220px;
+margin-left: 0px;	
+margin-top: 53px;
+text-align: center;
+	}
+	
+
+	.Polo{
+		width: 205px;	
+height: 130px;
+margin-left: -5px;	
+margin-top: 32px;
+background: white;
+text-align: center;
+		border: solid 3px #290064;
+	}
+	.medio{
+		width: 200px;	
+height: 25px;
+margin-left: 178px;	
+margin-top: -90px;
+text-align: center;
+	}
+	.otro{
+		width: 205px;	
+height: 130px;
+margin-left: 357px;	
+margin-top: -102px;
+background: white;
+text-align: center;
+		border: solid 3px #290064;
+	}
+	.costado{
+		width: 200px;	
+height: 25px;
+margin-left: 547px;	
+margin-top: -90px;
+text-align: center;
+		
+	}
+	
+	.ayuda{
+		width: 200px;	
+height: 25px;
+margin-left: px;	
+margin-top: 100px;
+text-align: center;
+	}
+	.link1{
+		width: 200px;	
+height: 25px;
+margin-left: -39px;	
+margin-top: 150px;
+text-align: center;
+	}
+	.link{
+		width: 200px;	
+height: 25px;
+margin-left: 11px;	
+margin-top: 100px;
+text-align: center;
+	}
+	.centro1{
+		width: 205px;	
+height: 130px;
+margin-left: 159px;	
+margin-top: -75px;
+background: white;
+text-align: center;
+		border: solid 3px #290064;
+	}
+	.pegado1{
+		margin-top: -50px;
+	}
+	.pegado{
+		width: 150px;	
+height: 130px;
+margin-top: -160px;
+margin-left: 568px;	
+background: white;
+text-align: center;
+		border: solid 3px #290064;
+	}
+	.abajo1{
+		width: 200px;	
+height: 25px;
+margin-left: 730px;	
+margin-top: -90px;
+text-align: center;
+	}
+	.abajo{width: 200px;	
+height: 25px;
+margin-left: 370px;	
+margin-top: -120px;
+text-align: center;}
+	.karma1{
+		width: 200px;	
+height: 23px;
+margin-left: 5px;	
+margin-top: 150px;
+text-align: center;
+	}
+	.karma{
+		width: 200px;	
+height: 25px;
+margin-left: -52px;	
+margin-top: 180px;
+text-align: center;
+	}
+	.final1{
+		width: 205px;	
+height: 130px;
+margin-left: 10px;	
+margin-top: -650px;
+text-align: center;
+	
+	}
+	.final{
+		width: 205px;	
+height: 130px;
+margin-left: 94px;	
+margin-top: 550px;
+background: white;
+text-align: center;
+		border: solid 3px #290064;
+	}
+	.correr1{
+		width: 200px;	
+height: 25px;
+margin-left: 595px;	
+margin-top: -60px;
+text-align: center;
+	}
+	.correr{
+		width: 200px;	
+height: 25px;
+margin-left: -60px;	
+margin-top: -95px;
+text-align: center;
+	
+	}
+	.ultimo1{
+		width: 205px;	
+height: 130px;
+margin-left: -20px;	
+margin-top: -40px;
+text-align: center;
+	
+	}
+	.ultimo{
+		width: 205px;	
+height: 130px;
+margin-left: 356px;	
+margin-top: -78px;
+background: white;
+text-align: center;
+		border: solid 3px #290064;
+	}
+	.dentro{
+		width: 50px;	
+height: 50px;
+margin-left: 230px;	
+margin-top:120px;
+text-align: center;
+	}
+	
+	
+	a:link {
+	color: #19009A;
+}
+a:hover {
+	color: #FF0004;
+}
+
+.color{
+	 width:380px; height:780px; float:left; background-color:lightblue;
+}
+.col-md-6{
+	background-color: white;
+	width: 66%;
+    height: 780px;
+	border-left: solid 2px #084200
+}
+
+.dentro{
+	margin-left: -35px;
+}
+
+
+.titulo {
+	float: left;
+	list-style: none;
+	margin-left: 40%;
+	margin-top: -100px
+}
+
+.imagen{
+	margin-top: 1%;
+}
+
+.dentro3{
+	width: 100%;
+	height: 100%;
+	margin-top: 3%;
+	padding: 1%;
+	
+}
+
+.titulo5{
+	float: right;
+    margin-top: -11%;
+	
+		
+}
+	
+.Inicio2{
+	margin-left: 110px;
+	margin-top: -45px
+}
+
+.Inicio3{
+	margin-left: 500px;
+	margin-top: -40px
+}
